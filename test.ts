@@ -1,3 +1,3 @@
 TextDecoderStream;;
 
-TextDecoderStream;
+DecoderStream;
